@@ -1,0 +1,22 @@
+<div class="col py-3" >
+    <div class="card ">
+        <img src="{{item.picture}}" class="card-img-top" alt="PicDesc">
+
+        <div class="card-body h-100">
+            <div class="clearfix mb-3"> 
+                <h5><span class="badge">{{item.category}}</span></h5> 
+                <span class="float-right price-hp">Price {{item.price}}£</span> 
+            </div>
+            <h5 class="card-title">{{item.name}}</h5>
+            <p class="card-text shrink">{{item.desc}}</p>
+            <button class="btn btn-success btn-block " (click)="AddtoCart()">
+                <i class="fa fa-plus"></i>
+                Add to cart
+            </button>
+            <button class="btn btn-primary btn-block " routerLink='desc'>
+                <i class="fa fa-info"></i>
+                Description
+            </button>   
+        </div>
+    </div>
+</div>

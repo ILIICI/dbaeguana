@@ -1,0 +1,21 @@
+.col-lg-9
+    .row
+        justify-content: center
+.floating-label
+    position: absolute
+    pointer-events: none
+    left: 20px
+    top: 16px
+    transition: 0.2s ease all
+    color: grey
+inputText
+    font-size: 14px
+    width: 200px
+    height: 35px
+
+input:focus ~ .floating-label
+    top: 8px
+    bottom: 10px
+    left: 20px
+    font-size: 9px
+    opacity: 1

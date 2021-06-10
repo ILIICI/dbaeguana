@@ -1,0 +1,22 @@
+.card 
+    max-width: 16rem
+    height: auto
+.card:hover
+    transform: scale(1.05)
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06)
+.shrink
+    overflow: hidden
+    text-overflow: ellipsis
+    word-wrap: break-word
+    display: block
+    line-height: 1em
+    max-height: 5em
+.shrink::after
+    content: "..."
+    position: absolute
+    right: 13px
+    bottom: 120px
+.card-img-top
+    max-height:210px
+
+

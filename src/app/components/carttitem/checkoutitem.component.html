@@ -1,0 +1,12 @@
+<div class="col-4">
+    <p>{{cartItem.name}}</p>
+</div>
+<div class="col-3">
+    <p>{{cartItem.qty}}</p>
+</div>
+<div class="col-3">
+    <p>£{{cartItem.price * cartItem.qty}}</p>
+</div>
+<div class="col-2">
+    <p><i class="fa fa-minus-square" (click)='delete()'></i></p>
+</div>

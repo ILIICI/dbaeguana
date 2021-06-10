@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "category": "Drinks",
+            "name": "Pepsi",
+            "desc": "Original Pepsi is a refreshingly tasty, classic flavoured cola drink. Great value for money and served ice cold for maximum refreshment, it is ideal for hotels, office and home environments.",
+            "price": 2,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/89867/pepsi-330ml-can-case-24-zoom-1.jpg"
+        },
+        {
+            "id": 2,
+            "category": "Drinks",
+            "name": "Coca-Cola",
+            "desc": "Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886. Served ice cold for maximum refreshment, it is ideal to have around as a complimentary treat in hotels, office receptions or in yourliving room.",
+            "price": 3,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/89806/coca-cola-cans-330ml-case-24-zoom-1.jpg"
+        },
+        {
+            "id": 3,
+            "category": "Drinks",
+            "name": "Fanta Orange Zero",
+            "desc": "Fanta Zero is a well known, refreshing orange flavoured soft drink with sweeteners. Served ice cold for maximum refreshment, this low calorie beverage is ideal for a guilt free refreshment in hotels, office and homeenvironments.",
+            "price": 1,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/89874/fanta-orange-zero-cans-330ml-case-24-zoom-1.jpg"
+        },
+        {
+            "id": 4,
+            "category": "Drinks",
+            "name": "Irn Bru",
+            "desc": "Irn Bru is a well known, refreshing soft drink. Served ice cold for maximum refreshment it is ideal for hotels,office and home environments.",
+            "price": 9,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/89872/irn-bru-30ml-cans-case-24-zoom-1.jpg"
+        },
+        {
+            "id": 5,
+            "category": "Drinks",
+            "name": "Red Bull",
+            "desc": "Red Bull is a refreshing and tasty energy drink, containing caffeine. It's an effective way for boosting energylevels quickly. Served ice cold for maximum refreshment and great value for money, it is Ideal for hotels, officeand home environments.",
+            "price": 12,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/88384/red-bull-cans-250ml-case-24-zoom-1.jpg"
+        },
+        {
+            "id": 6,
+            "category": "Food",
+            "name": "Lotus Caramelised",
+            "desc": "Lotus biscuits provide a delicous and unique caramelised taste and are individually wrapped to ensure freshness. They are a great addition to any hot beverage and ideal to have around as a complimentary treat inhotels and office receptions, as well as your living room.",
+            "price": 8.99,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/89864/lotus-caramelised-biscuits-6-x-50-zoom-1.jpg"
+        },
+        {
+            "id": 7,
+            "category": "Food",
+            "name": "Crawfords Teatime",
+            "desc": "A delicous selection of sweet biscuits, containing a variety of the nation's favourites. Ideal for sharing at home or in the office.",
+            "price": 0.99,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/89863/crawfords-teatime-biscuits-275g-zoom-1.jpg"
+        },
+        {
+            "id": 8,
+            "category": "Food",
+            "name": "Pringles Original",
+            "desc": "These Pringles are the classic crisp stacked in a mini 'pop and go' tube, fantastically tasty and perfect forsnacking on the run. They are ideal to have around as a complimentary treat in hotels, office receptions or inyour living room.",
+            "price": 2.33,
+            "qty": 1,
+            "picture": "https://cdnsta.avansas.com/mnresize/300/-/urun/europe1/89804/pringles-original-40g-case-12-zoom-1.jpg"
+        }
+    ]
+}
